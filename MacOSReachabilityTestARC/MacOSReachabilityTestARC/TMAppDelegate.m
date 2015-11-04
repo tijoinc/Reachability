@@ -8,7 +8,7 @@
 
 #import "TMAppDelegate.h"
 
-#import "Reachability.h"
+#import "TMReachability.h"
 
 @implementation TMAppDelegate
 
